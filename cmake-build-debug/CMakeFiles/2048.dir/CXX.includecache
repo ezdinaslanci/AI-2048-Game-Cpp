@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ezdin/ClionProjects/2048_cpp/AI.h
+GridTools.h
+/home/ezdin/ClionProjects/2048_cpp/GridTools.h
+limits
+-
+iostream
+-
+armadillo
+-
+stdlib.h
+-
+time.h
+-
+string
+-
+math.h
+-
+
+/home/ezdin/ClionProjects/2048_cpp/GridTools.h
+iostream
+-
+armadillo
+-
+stdlib.h
+-
+time.h
+-
+string
+-
+
+/home/ezdin/ClionProjects/2048_cpp/main.cpp
+AI.h
+/home/ezdin/ClionProjects/2048_cpp/AI.h
+
